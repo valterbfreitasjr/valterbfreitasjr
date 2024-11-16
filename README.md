@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Valter, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/valter-b-freitas-jr/"><img src="https://img.shields.io/badge/-Valter%20B.%20Freitas%20Jr-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:valter191@hotmail.com"><img src="https://img.shields.io/badge/-valter191@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
